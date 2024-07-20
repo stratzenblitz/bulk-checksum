@@ -8,6 +8,9 @@ version = "0.0.1"
 description = "CLI utility for verifiying bulk file copying"
 readme = "README.md"
 requires-python = ">=3.9"
+dependencies = [
+  "click~=8.1.7"
+]
 
 
 [project.scripts]
