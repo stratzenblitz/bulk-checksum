@@ -8,4 +8,4 @@ This tool is meant to be used after all files have been copied from a 'source' t
 The output of this will be a `checksum.json` file.
 1. Run the same command in the destination directory.
 1. Run `bulk_checksum_compare` on the two checksum files.
-If there were any erros in copying the data, the resulting mismatches will be reported by the output of this function.
+If there were any errors in copying the data the resulting mismatches will be reported by the output of this function.
